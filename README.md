@@ -12,4 +12,4 @@ make
 
 ## 📚 Usage
 
-![Demo video](demo.mov)
+https://user-images.githubusercontent.com/38606542/227258053-629941b5-3eee-4c21-98a2-11158e79e2ed.mov
