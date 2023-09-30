@@ -12,4 +12,4 @@ make
 
 ## 📚 Usage
 
-https://user-images.githubusercontent.com/38606542/227258053-629941b5-3eee-4c21-98a2-11158e79e2ed.mov
+![Minitalk Demo](https://github.com/Hunam6/minitalk/assets/38606542/8566b937-876f-4bbf-8cb8-f052406620ab)
