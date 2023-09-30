@@ -7,7 +7,16 @@
 
 ![Minitalk Demo](https://github.com/Hunam6/minitalk/assets/38606542/8566b937-876f-4bbf-8cb8-f052406620ab)
 
-## 🛠️ Installation
+## 📋 Topics
+
+- UNIX signals
+
+## 🛠️ Langs/Tools
+
+- C
+- Makefile
+
+## 🚀 Installation
 
 ```
 git clone https://github.com/hunam6/minitalk
